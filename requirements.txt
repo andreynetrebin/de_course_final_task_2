@@ -1,0 +1,6 @@
+pyspark==3.4.2
+py4j==0.10.9.7
+requests
+psycopg2
+
+
