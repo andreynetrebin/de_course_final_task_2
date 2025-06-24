@@ -1,4 +1,6 @@
 # Проект: Анализ данных с использованием PySpark и PostgreSQL
+![de_final_task2_](https://github.com/user-attachments/assets/38a2abb9-07c5-451e-a07d-0fab7cb1fab1)
+
 
 ## Содержание
 
