@@ -1,6 +1,5 @@
 # Проект: Анализ данных с использованием PySpark и PostgreSQL
-![de_final_task2_](https://github.com/user-attachments/assets/38a2abb9-07c5-451e-a07d-0fab7cb1fab1)
-
+<img width="900" height="507" alt="de_final_task2" src="https://github.com/user-attachments/assets/92d89a3a-aa4c-4d6c-ad27-a668fe291e10" />
 
 ## Содержание
 
